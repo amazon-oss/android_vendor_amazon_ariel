@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/ariel/proprietary/lib/hw/audio.primary.mt8135.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/audio.primary.mt8135.so \
     vendor/amazon/ariel/proprietary/lib/hw/camera.mt8135.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.mt8135.so \
     vendor/amazon/ariel/proprietary/lib/hw/hwcomposer.mt8135.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/hwcomposer.mt8135.so \
-    vendor/amazon/ariel/proprietary/lib/hw/sensors.mt8135.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/sensors.mt8135.so \
     vendor/amazon/ariel/proprietary/lib/lib3a.so:$(TARGET_COPY_OUT_SYSTEM)/lib/lib3a.so \
     vendor/amazon/ariel/proprietary/lib/libJpgEncPipe.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libJpgEncPipe.so \
     vendor/amazon/ariel/proprietary/lib/libaudiocompensationfilter.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudiocompensationfilter.so \
@@ -63,6 +62,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/ariel/proprietary/lib/libnvram_platform.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libnvram_platform.so \
     vendor/amazon/ariel/proprietary/lib/libnvram_sec.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libnvram_sec.so \
     vendor/amazon/ariel/proprietary/lib/libnvramagentclient.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libnvramagentclient.so \
+    vendor/amazon/ariel/proprietary/lib/libsensors.mt8135.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsensors.mt8135.so \
     vendor/amazon/ariel/proprietary/lib/libsmartvolume.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsmartvolume.so \
     vendor/amazon/ariel/proprietary/vendor/etc/dolby/ds1-000F.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/ds1-000F.xml \
     vendor/amazon/ariel/proprietary/vendor/etc/dolby/ds1-0012.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/ds1-0012.xml \
